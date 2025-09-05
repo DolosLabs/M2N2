@@ -61,8 +61,8 @@ pip install torch torchvision pytorch-lightning numpy tqdm
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/M2N2-pytorch.git
-cd M2N2-pytorch
+git clone https://github.com/DolosLabs/M2N2
+cd M2N2
 ```
 
 ---
@@ -72,7 +72,7 @@ cd M2N2-pytorch
 Run the MNIST evolution experiment:
 
 ```bash
-python m2n2_mnist.py
+python train.py
 ```
 
 The script will:
